@@ -1,0 +1,12 @@
+[submodule "Lab4"]
+	path = Lab4
+	url = https://github.com/skillznathan/Lab4.git
+[submodule "LAB4PointersandDynamicMemory"]
+	path = LAB4PointersandDynamicMemory
+	url = https://github.com/skillznathan/LAB4PointersandDynamicMemory.git
+[submodule "FindingMinandMaxwithPointers"]
+	path = FindingMinandMaxwithPointers
+	url = https://github.com/skillznathan/FindingMinandMaxwithPointers.git
+[submodule "DynamicGrades"]
+	path = DynamicGrades
+	url = https://github.com/skillznathan/DynamicGrades.git
